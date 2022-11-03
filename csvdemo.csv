@@ -1,0 +1,5 @@
+,python,fee,duration,discount
+0,Django,100,30days,50
+1,Flask,200,20days,40
+2,Django-celery,300,10days,30
+3,Django-Htmx,400,5days,20
